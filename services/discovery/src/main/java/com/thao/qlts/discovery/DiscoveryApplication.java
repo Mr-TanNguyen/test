@@ -1,4 +1,3 @@
-
 package com.linhlt138161.qlts.discovery;
 
 import org.springframework.boot.SpringApplication;
